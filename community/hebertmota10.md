@@ -30,7 +30,8 @@
 
 ![GitHub Dashboard](https://github-readme-stats.vercel.app/api?username=hebertmota10&theme=transparent&bg_color=2F3542&border_color=000&show_icons=true&icon_color=82589F&title_color=1DD1A1&text_color=FFF)
 
-GitHub Streak Stats
+## GitHub Streak Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hebertmota10&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 
